@@ -1,0 +1,6 @@
+{
+  "name": "AdMatrix 广告素材敏捷矩阵与增长资产中台",
+  "description": "专为广告公司打造的素材矩阵引擎与六大内容资产中台：基于网站内容提取、防限流合规检测、千牛/闲鱼数据诊断、3x3x3变体敏捷测试与赢家微创新闭环。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
